@@ -28,3 +28,7 @@ print(f'Received from Queue1: {message1}')
 print(f'Received from Queue2: {message2}')
 
 ```
+
+## Links
+
+[PyPi](https://pypi.org/project/SharedMemoryQueue/0.1.0/)
