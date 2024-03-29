@@ -1,4 +1,4 @@
-from SharedMemoryQueue import enqueue_message, dequeue_message
+from shared_queue import enqueue_message, dequeue_message
 
 # Enqueue messages into different queues
 enqueue_message('Queue1', 'Message for Queue 1')
