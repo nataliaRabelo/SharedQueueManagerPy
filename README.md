@@ -31,4 +31,4 @@ print(f'Received from Queue2: {message2}')
 
 ## Links
 
-[PyPi](https://pypi.org/project/SharedMemoryQueue/0.1.0/)
+[PyPi](https://pypi.org/project/SharedMemoryQueue/)
